@@ -1639,3 +1639,34 @@
     max_age: Lower Devonian
     ref_age: Ghobadi pour et al 2019
     environment: siliciclastic
+-
+  ID: NMW2005-32G-132_C
+  taxonomy:
+    genus: Trimerus
+    subgen: Edgillia
+    sp: kinglakensis
+    sp_status: aff.
+    orig_genus: Trimerus
+    orig_sp: kinglakensis
+    sp_author: Gill
+    gen_author: Green
+  ref_pic: Ghobadi Pour in 2019
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Lake Balkhash 
+    country: Kazakhstan 
+    state: NA
+    county: NA
+    map: yes
+    lat: null
+    long: null
+  stratigraphy:
+    basin: NA
+    formation: Shakshagaily 
+    min_age: Lower Devonian
+    max_age: Lower Devonian
+    ref_age: Ghobadi pour et al 2019
+    environment: siliciclastic
