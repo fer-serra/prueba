@@ -25,6 +25,31 @@
     max_age: Pragian
     ref_age: Lane,_Onniston_1973
 -
+  ID: GSC_29076
+  taxonomy:   # toda la info de al sistemática
+    genus: Warburgella
+    sp: rugulosa
+    subsp: canadensis
+    orig_genus: NA
+    sp_author: Ormiston_1967
+    gen_author: Reed_1931
+  ref_pic: Ormiston_1975    # de que paper sacamos la foto de ese ejemplar.
+  morphology:    # la info de la "morfología"
+    part: Cranidium
+    eyes: yes
+    ontogeny: Holaspis
+  geography:    # la info geográfica
+    locality: South_Canyon_Range
+    country: Canada
+    map: yes
+    lat: 62.5
+    long: -125.016
+  stratigraphy:
+    formation: Delorme_Formation
+    min_age: Pragian
+    max_age: Pragian
+    ref_age: Lane,_Onniston_1973
+-
   ID: SMF_55937
   taxonomy:
     genus: Belgibole
