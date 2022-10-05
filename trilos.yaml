@@ -1,0 +1,1641 @@
+---
+-
+  ID: GSC_29076
+  taxonomy:   # toda la info de al sistemática
+    genus: Warburgella
+    sp: rugulosa
+    subsp: canadensis
+    orig_genus: NA
+    sp_author: Ormiston_1967
+    gen_author: Reed_1931
+  ref_pic: Ormiston_1975    # de que paper sacamos la foto de ese ejemplar.
+  morphology:    # la info de la "morfología"
+    part: Cranidium
+    eyes: yes
+    ontogeny: Holaspis
+  geography:    # la info geográfica
+    locality: South_Canyon_Range
+    country: Canada
+    map: yes
+    lat: 62.5
+    long: -125.016
+  stratigraphy:
+    formation: Delorme_Formation
+    min_age: Pragian
+    max_age: Pragian
+    ref_age: Lane,_Onniston_1973
+-
+  ID: SMF_55937
+  taxonomy:
+    genus: Belgibole
+    sp: milieuensis 
+    sp_author: Muller_2000
+    gen_author: Hahn_1963
+  ref_pic: Muller_2000
+  morphology:
+    part: Cranidium
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Tournai
+    country: Belgium
+    state: Hainaut
+    map: no 
+  stratigraphy:
+    min_age: Mississippian
+    max_age: Mississippian
+-
+  ID: UMC_IP333
+  taxonomy:
+    genus: Cyrtosymbole
+    sp: escoti
+    orig_genus: Dechenella
+    orig_sp: escoti
+    sp_author: von_Koenen_1886
+    gen_author: Richter_1912
+  ref_pic: Feist,_Lerosey_Aubril_2005
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: early_Holaspis
+  geography:
+    locality: Cabriires_village
+    country: France
+    state: NA
+    county: Vaucluse
+    map: yes
+    lat: NA
+    long: NA
+  stratigraphy:
+    basin: Montagne_Noire
+    formation: Griotte_Limestone_Formation
+    min_age: early_Famennian
+    max_age: early_Famennian
+    ref_age: NA
+    environment: carbonate
+-
+  ID: IRSNB_a12604
+  taxonomy:
+    genus: Dechenella
+    sp: daumeriesi
+    orig_genus: Dechenella
+    orig_sp: sp.
+    sp_author: van_Viersen,_Prescher_2008
+    gen_author: Kayser_1880
+  ref_pic: van_Viersen,_Prescher_2008
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Resteigne_quarry
+    country: Belgium
+  stratigraphy:
+    formation: Hanonet_Formation
+    min_age: uppermost_Eifelian
+    max_age: uppermost_Eifelian
+    environment: null
+-
+  ID: IRSNB_a12575
+  taxonomy:
+    genus: Gerastos
+    sp: prox_lessensis 
+    orig_genus: Gerastos
+    orig_sp: prox
+    sp_author: van_Viersen,_Prescher_2008
+    gen_author: Richter,_Richter_1956
+  ref_pic: van_Viersen,_Prescher_2008
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Resteigne_quarry
+    country: Belgium
+    state: NA
+    county: NA
+    map: no
+    lat: NA
+    long: NA
+  stratigraphy:
+    basin: NA
+    formation: Hanonet_Formation
+    min_age: uppermost_Eifelian
+    max_age: uppermost_Eifelian
+    ref_age: NA
+    environment: null
+-
+  ID: GSC_43605
+  taxonomy:
+    genus: Fuscinipyge
+    sp: yolkini
+    orig_genus: Fuscinipyge
+    orig_sp: yolkini
+    sp_author: Ormiston_1972
+    gen_author: Ormiston_1972
+  ref_pic: Ormiston_1976
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Mackenzie_Mountains
+    country: Canada
+    state: NA
+    county: NA
+    map: no
+    lat: 65.338
+    long: -129.966
+  stratigraphy:
+    basin: Mackenzie_Basin
+    formation: Hume_Formation
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: NA
+    environment: null
+-
+  ID: IG_442_II_138
+  taxonomy:
+    genus: Archegonus
+    sp: aprathensis
+    orig_genus: Phillibole
+    orig_sp: aff._aprathensis
+    sp_author: R_E_Richter_1937
+    gen_author: Burmeister_1843
+  ref_pic: Osmolska_1968
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Jugiw
+    country: Poland
+    map: no
+  stratigraphy:
+    basin: NA
+    formation: NA
+    min_age: Visean
+    max_age: Visean
+    ref_age: NA
+    environment: null
+-
+  ID: BMS_E5433
+  taxonomy:
+    genus: Basidechenella
+    sp: rowi
+    orig_genus: Calymene
+    orig_sp: rowi
+    sp_author: Green_1838
+    gen_author: Richter_1912
+  ref_pic: Lieberman_1994
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: East_Bethany
+    country: United States
+    state: New_York
+    county: NA
+    map: no
+  stratigraphy:
+    basin: Appalachian_Basin
+    formation: Ludlowville_Formation
+    min_age: Emsian
+    max_age: Givetian
+-
+  ID: MMB107
+  taxonomy:
+    genus: Belenopyge
+    sp: estevei
+    orig_genus: Acanthopyge_(Lobopyge)
+    orig_sp: sp. 
+    sp_author: Corbacho_and_Kier_2013
+    gen_author: Hawle,_Corda_1847
+  ref_pic: Corbacho,_Kier_2013
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Jebel_Oufatene
+    country: Morocco
+    map: yes
+    lat: 31.15
+    long: -4.916
+  stratigraphy:
+    basin: Mader_basin
+    formation: Ihandar_Formation
+    min_age: Pragian
+    max_age: Pragian
+    environment: carbonate
+-
+  ID: NHMM_2011_003
+  taxonomy:
+    genus: Ceratarges
+    sp: aries
+    orig_genus: Ceratarges
+    orig_sp: sp._n.
+    sp_author: van_Viersen,_Prescher_2011
+    gen_author: Garich_1901
+  ref_pic: van_Viersen,_Prescher_2011
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Zireg
+    country: Morocco
+    map: no
+    lat: 30.611
+    long: -4.539
+  stratigraphy:
+    basin: Maider_Basin
+    formation: El_Otfal_Formation
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: NA
+    environment: carbonate
+-
+  ID: Ulg_2011_11_16
+  taxonomy:
+    genus: Ohleum
+    sp: magreani
+    orig_genus: Ohleum
+    orig_sp: cf._eurydice
+    sp_author: Taghon_Bonino_Mottequin_2012
+    gen_author: Basse_1998
+  ref_pic: Taghon,_Bonino,_Mottequin_2012
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Couvin
+    country: Belgium
+    state: NA
+    county: NA
+    map: yes
+    lat: NA
+    long: NA
+  stratigraphy:
+    basin: Namur_Dinant_Basin
+    formation: Jemelle_Formation
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: NA
+    environment: carbonate
+-
+  ID: SMF_88192
+  taxonomy:
+    genus: Kettneraspis
+    sp: elliptica
+    orig_genus: NA
+    orig_sp: null
+    sp_author: Burmeister_1843
+    gen_author: Prantl,_Pribyl_1949
+  ref_pic: van_Viersen,_Heising_2015
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Gees
+    country: Germany
+    state: NA
+    county: NA
+    map: no
+    lat: NA
+    long: NA
+  stratigraphy:
+    basin: NA
+    formation: Ahrdorf_Formation
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: NA
+    environment: null
+-
+  ID: GSC_95876
+  taxonomy:
+    genus: Odontopleura
+    subgen: Odontopleura
+    sp: arctica
+    orig_genus: Odontopleura_(Odontopleura)
+    orig_sp: arctica
+    sp_author: Adrain,_Chatterton
+    gen_author: Emmrich_1839
+  ref_pic: Adrain,_Chatterton_1990
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Marshall_Peninsula
+    country: Canada
+    state: NA
+    county: NA
+    map: yes
+    lat: 75.433
+    long: -96.083
+  stratigraphy:
+    basin: NA
+    formation: Cape_Phillips_Formation
+    min_age: Llandovery
+    max_age: Llandovery
+    ref_age: NA
+    environment: carbonate
+-
+  ID: NHM_It_28960
+  taxonomy:
+    genus: Podoliproetus
+    sp: sinespina
+    orig_genus: Podoliproetus
+    orig_sp: sinespina
+    sp_author: Johnson,_Fortey_2012
+    gen_author: Snajdr_1980
+  ref_pic: Johnson,_Fortey_2012
+  morphology:
+    part: Cephalon 
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Erfoud
+    country: Morocco
+    state: NA
+    county: NA
+    map: yes
+    lat: NA
+    long: NA
+  stratigraphy:
+    basin: NA
+    formation: Ihandar_Formation 
+    min_age: Pragian
+    max_age: Pragian
+    ref_age: Bultynck_Walliserr_2000
+    environment: carbonate
+-
+  ID: YPM_33805
+  taxonomy:
+    genus: Proetus
+    sp: latifrons
+    orig_genus: Forbesia
+    orig_sp: latifrons
+    sp_author: McCoy_1846
+    gen_author: Steininger_1831
+  ref_pic: Lieberman_1994
+  morphology:
+    part: Cephalon 
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Dudley
+    country: England
+    state: NA
+    county: West_Midlands
+    map: no
+    lat: NA
+    long: NA
+  stratigraphy:
+    basin: NA
+    formation: Coalbrookdale_Formation
+    min_age: Wenlock
+    max_age: Wenlock
+    ref_age: Owens_1973
+    environment: null
+-
+  ID: MS_7364
+  taxonomy:
+    genus: Bensovella
+    sp: emarginata
+    orig_genus: Phacops
+    orig_sp: emarginatus
+    sp_author: Barrande_1852
+    gen_author: Chlupac_1969
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cranidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.266
+    long: 14.065
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Acanthopyge_Limestone
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: SBNM_IT_392
+  taxonomy:
+    genus: Bensovella
+    sp: emarginata
+    orig_genus: Phacops
+    orig_sp: emarginatus
+    sp_author: Barrande_1852
+    gen_author: Chlupac_1969
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Pygidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.266
+    long: 14.065
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Acanthopyge_Limestone
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: SBNM_IT_240
+  taxonomy:
+    genus: Decoroproetus
+    sp: coderus
+    orig_genus: Proetus
+    orig_sp: decorus_[partim.]
+    sp_author: Snajdr_1980
+    gen_author: Pribyl_1946
+  ref_pic: Snajdr_1980
+  morphology:
+    part: [Cephalon, Pygidium]
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Lodenice
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.995
+    long: 14.158
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Liten_Formation
+    min_age: Wenlockian
+    max_age: Wenlockian
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: MS_5520
+  taxonomy:
+    genus: Erbenites
+    sp: fallax
+    orig_genus: Proetus
+    orig_sp: fallax
+    sp_author: Barrande_1846
+    gen_author: Pribyl_1964
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cranidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.266
+    long: 14.065
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Acanthopyge_Limestone
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: MS_5536
+  taxonomy:
+    genus: Erbenites
+    sp: fallax
+    orig_genus: Proetus
+    orig_sp: fallax
+    sp_author: Barrande_1846
+    gen_author: Pribyl_1964
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Pygidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.266
+    long: 14.065
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Acanthopyge_Limestone
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: SBNM_IT_176
+  taxonomy:
+    genus: Myoproetus
+    sp: myops
+    orig_genus: Proetus
+    orig_sp: myops
+    sp_author: Barrande_1846
+    gen_author: Snajdr_1976
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.266
+    long: 14.065
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Acanthopyge_Limestone
+    min_age: Dalejan
+    max_age: Dalejan
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: SBNM_347_68
+  taxonomy:
+    genus: Myoproetus
+    sp: myops
+    orig_genus: Proetus
+    orig_sp: myops
+    sp_author: Barrande_1846
+    gen_author: Snajdr_1976
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Pygidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.266
+    long: 14.065
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Acanthopyge_Limestone
+    min_age: Dalejan
+    max_age: Dalejan
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: SM_4637
+  taxonomy:
+    genus: Proetus
+    sp: morinensis
+    orig_genus: Proetus
+    orig_sp: morinensis
+    sp_author: Pribyl_1960
+    gen_author: Steininger_1831
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Pygidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Karlstejn
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.937
+    long: 14.186
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Kopania_Formation
+    min_age: Ludlovian
+    max_age: Ludlovian
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: MS_7390
+  taxonomy:
+    genus: Orbitoproetus
+    sp: fornicatus
+    orig_genus: Proetus
+    orig_sp: fornicatus
+    sp_author: Pribyl_1971
+    gen_author: Pillet_1969
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.266
+    long: 14.065
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Acanthopyge_Limestone
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: SBNM_2887_1893
+  taxonomy:
+    genus: Orbitoproetus
+    sp: fornicatus
+    orig_genus: Proetus
+    orig_sp: fornicatus
+    sp_author: Pribyl_1971
+    gen_author: Pillet_1969
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Pygidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.266
+    long: 14.065
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Acanthopyge_Limestone
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: SBNM_IT_177
+  taxonomy:
+    genus: Unguliproetus
+    sp: unguloides
+    orig_genus: Proetus
+    orig_sp: unguloides
+    sp_author: Barrande_1846
+    gen_author: Erben_1951
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Menany
+    country: Czech
+    state: Central_Bohemia
+    county: null
+    map: null
+    lat: 49.91
+    long: 14.117
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Suchomasty_Limestone
+    min_age: Dalejan
+    max_age: Dalejan
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: MS_5566
+  taxonomy:
+    genus: Unguliproetus
+    sp: unguloides
+    orig_genus: Proetus
+    orig_sp: unguloides
+    sp_author: Barrande_1846
+    gen_author: Erben_1951
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Pygidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Zlaty_kun
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.781
+    long: 13.949
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Suchomasty_Limestone
+    min_age: Dalejan
+    max_age: Dalejan
+    ref_age: Snajdr_1980
+    environment: carbonate
+-
+  ID: WAM_07301
+  taxonomy:
+    genus: Palpebralia
+    sp: initialis
+    orig_genus: Palpebralia
+    orig_sp: initialis
+    sp_author: Feist_McNamara_2013
+    gen_author: Richter_Richter_1927
+  ref_pic: Feist_McNamara_2013
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Windy Knolls
+    country: Australia
+    state: Western_Australia
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: Canning_basin
+    formation: Virgin_Hills_Formation
+    min_age: Frasnian
+    max_age: Frasnian
+    ref_age: Feist_McNamara_2013
+    environment: carbonate
+-
+  ID: WAM_07302
+  taxonomy:
+    genus: Palpebralia
+    sp: initialis
+    orig_genus: Palpebralia
+    orig_sp: initialis
+    sp_author: Feist_McNamara_2013
+    gen_author: Richter_Richter_1927
+  ref_pic: Feist_McNamara_2013
+  morphology:
+    part: Pygidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Windy Knolls
+    country: Australia
+    state: Western_Australia
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: Canning_basin
+    formation: Virgin_Hills_Formation
+    min_age: Frasnian
+    max_age: Frasnian
+    ref_age: Feist_McNamara_2014
+    environment: carbonate
+-
+  ID: WAM_1140
+  taxonomy:
+    genus: Rudybole
+    sp: adorfensis
+    orig_genus: Drevermania
+    orig_sp: adorfensis
+    sp_author: Richter_1913
+    gen_author: Feist_McNamara_2013
+  ref_pic: Feist_McNamara_2013
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Horse_Spring
+    country: Australia
+    state: Western_Australia
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: Canning_basin
+    formation: Virgin_Hills_Formation
+    min_age: Frasnian
+    max_age: Frasnian
+    ref_age: Feist_McNamara_2013
+    environment: null
+-
+  ID: WAM_1143
+  taxonomy:
+    genus: Rudybole
+    sp: adorfensis
+    orig_genus: Drevermania
+    orig_sp: adorfensis
+    sp_author: Richter_1914
+    gen_author: Feist_McNamara_2013
+  ref_pic: Feist_McNamara_2014
+  morphology:
+    part: Pygidium
+    eyes: no
+    ontogeny: Holaspis
+  geography:
+    locality: Horse_Spring
+    country: Australia
+    state: Western_Australia
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: Canning_basin
+    formation: Virgin_Hills_Formation
+    min_age: Frasnian
+    max_age: Frasnian
+    ref_age: Feist_McNamara_2013
+    environment: null
+-
+  ID: SBNM_Br_291
+  taxonomy:
+    genus: Planiscutellum
+    sp: planum
+    orig_genus: Bronteus
+    orig_sp: planus
+    sp_author: Hawle_Corda_1847
+    gen_author: Richter_1956
+  ref_pic: Snajdr_1960
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Lodenice
+    country: Czech
+    state: Central_Bohemia
+    county: Beroun
+    map: null
+    lat: 49.995
+    long: 14.158
+  stratigraphy:
+    basin: Barrandian_area
+    formation: null
+    min_age: Wenlockian
+    max_age: Wenlockian
+    ref_age: Snajdr_1960
+    environment: null
+-
+  ID: SBNM_CF1203_1263
+  taxonomy:
+    genus: Scabriscutellum
+    sp: billingsi
+    orig_genus: Bronteus
+    orig_sp: billingsi
+    sp_author: Barrande_1872
+    gen_author: Richter_1956
+  ref_pic: Snajdr_1960
+  morphology:
+    part: [Cephalon, Pygidium]
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Chotec
+    country: Czech
+    state: Hradec_KrAlovE
+    county: null
+    map: null
+    lat: 50.432
+    long: 15.516
+  stratigraphy:
+    basin: Barrandian_area
+    formation: Zlichov_Limestones
+    min_age: Zlichov
+    max_age: Zlichov
+    ref_age: Snajdr_1960
+    environment: null
+-
+  ID: IRSNB_7782A
+  taxonomy:
+    genus: Scutellum
+    sp: decipulum
+    orig_genus: null
+    orig_sp: null
+    sp_author: Van_Viersen_Prescher_2011
+    gen_author: Pusch_1833
+  ref_pic: Van_Viersen_Prescher_2011
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Arche_Quarry
+    country: Belguim
+    state: Wallone
+    county: Hradec_KrAlovE
+    map: null
+    lat: 50.666
+    long: 3.616
+  stratigraphy:
+    basin: Belgium
+    formation: Moulin_LiAnaux_Formation
+    min_age: Frasnian
+    max_age: Frasnian
+    ref_age: Van_Viersen_Prescher_2011
+    environment: null
+-
+  ID: AMF_124726
+  taxonomy:
+    genus: Dentaloscutellum
+    sp: hudsoni
+    orig_genus: null
+    orig_sp: null
+    sp_author: Chatterton_1971
+    gen_author: Chatterton_1971
+  ref_pic: Edgecombre_Wright_2004
+  morphology:
+    part: Cranidium
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Brogans_Creek
+    country: Australia
+    state: New_South_Wales
+    county: Wellington
+    map: null
+    lat: -32.6
+    long: 149.583
+  stratigraphy:
+    basin: Australia
+    formation: NA
+    min_age: Emsian
+    max_age: Emsian
+    ref_age: Edgecombe_Wright_2004
+    environment: null
+-
+  ID: UA_14327
+  taxonomy:
+    genus: Kolihapeltis
+    sp: chlupaci
+    orig_genus: null
+    orig_sp: null
+    sp_author: Snajdr_1960
+    gen_author: Prantl_Pribyl_1947
+  ref_pic: Feist_Chatterton_2015
+  morphology:
+    part: [Cephalon, Pygidium]
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Hamar_Laghdad_III
+    country: Morrocco
+    state: Draa_Tafilalet
+    county: ErrachidAa
+    map: null
+    lat: 31.379
+    long: -4.064
+  stratigraphy:
+    basin: Morroco
+    formation: Kess_Kess_Formation
+    min_age: Pragian
+    max_age: Pragian
+    ref_age: Feist_Chatterton_2011
+    environment: null
+-
+  ID: NHM_IT_28323
+  taxonomy:
+    genus: Paralejurus
+    sp: brongniarti
+    orig_genus: null
+    orig_sp: null
+    sp_author: Barrande_1846
+    gen_author: Hawle_Corda_1847
+  ref_pic: Feist_Lerosey-Aubril_2010
+  morphology:
+    part: [Cephalon, Pygidium]
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: El_Achane
+    country: Morrocco
+    state: null
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: Morroco
+    formation: null
+    min_age: Pragian
+    max_age: Pragian
+    ref_age: Feist_Lerosey-Aubril_2010
+    environment: null
+-
+  ID: UMMP_31317
+  taxonomy:
+    genus: Anchiopsis
+    sp: anchiops
+    orig_genus: Calymene
+    orig_sp: anchiops
+    sp_author: Green_1832
+    gen_author: Delo_1935
+  ref_pic: Stumm_1954
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Southwest_Ontario
+    country: USA
+    state: New_York
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: Bois_Blanc_Formation
+    min_age: Middle_Devonian
+    max_age: Middle_Devonian
+    ref_age: Stumm_1954
+    environment: null
+-
+  ID: NYSM_31318
+  taxonomy:
+    genus: Coronura
+    sp: aspectans
+    orig_genus: ?_Asaphus
+    orig_sp: diurus
+    sp_author: Conrad_1841
+    gen_author: Hall_and_Clarke_1888
+  ref_pic: Stumm_1954
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Upper_Onondaga_limestone
+    country: USA
+    state: New_York
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: null
+    min_age: Middle_Devonian
+    max_age: Middle_Devonian
+    ref_age: Stumm_1954
+    environment: null
+-
+  ID: USNMPAL_373954
+  taxonomy:
+    genus: Francovichia
+    sp: branisi
+    orig_genus: Francovichia
+    orig_sp: francovichi
+    sp_author: Wolfart_1968
+    gen_author: Branisa_and_Vanek_1973
+  ref_pic: Branisa_1965
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Limabamba
+    country: Bolivia
+    state: Prov_Tomina
+    county: Depto. Chuquisaca
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: null
+    min_age: Emsian
+    max_age: Emsian
+    ref_age: Branisa_1965
+    environment: null
+-
+  ID: CEGH-UNC_24318
+  taxonomy:
+    genus: Dalmanitoides
+    sp: drevermanni
+    orig_genus: Dalmanites
+    orig_sp: drevermanni
+    sp_author: Thomas_1906
+    gen_author: Delo_1935
+  ref_pic: Rustan_and_Vaccari_2012
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Cerro_La_Chilca
+    country: Argentina
+    state: Prov_San Juan
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: Talacasto_Formation
+    min_age: Emsian
+    max_age: Emsian
+    ref_age: Rustán_and_Vaccari_2012
+    environment: null
+-
+  ID: NYSM_31330
+  taxonomy:
+    genus: Odontocephalus
+    sp: selenourus
+    orig_genus: Asaphus
+    orig_sp: selenourus
+    sp_author: Eaton_1832
+    gen_author: Conrad_1840
+  ref_pic: Stumm_1954
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Lower_Onondaga_limestone
+    country: USA
+    state: New_York
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: Bois_Blanc_Formation
+    min_age: Middle_Devonian
+    max_age: Middle_Devonian
+    ref_age: Stumm_1954
+    environment: null
+-
+  ID: NYSM_9848
+  taxonomy:
+    genus: Huntoniatonia
+    sp: nasuta
+    orig_genus: Asaphus
+    orig_sp: nasutus
+    sp_author: Conrad_1841
+    gen_author: Jell_and_Adrain_2003
+  ref_pic: Delo_1940
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Schoharie
+    country: USA
+    state: New_York
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: null
+    min_age: Lower_Devonian
+    max_age: Lower_Devonian
+    ref_age: Delo_1940
+    environment: null
+-
+  ID: AMNH_44818
+  taxonomy:
+    genus: Kasachstania
+    sp: gerardoi
+    orig_genus: Dalmanites
+    orig_sp: cf._sudamericanus
+    sp_author: Edgecombe_and_Ramskold_1994
+    gen_author: Maksimova_1972
+  ref_pic: Edgecombe_and_Ramskold_1994
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Cochabamba_Department
+    country: Bolivia
+    state: null
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: Catavi_Formation
+    min_age: Lochkovian
+    max_age: Lochkovian
+    ref_age: Edgecombe_and_Ramskold_1994
+    environment: null
+-
+  ID: MCZ_172821
+  taxonomy:
+    genus: Odontochile
+    sp: hausmanni
+    orig_genus: Asaphus
+    orig_sp: hausmanni
+    sp_author: Brongniart_1822
+    gen_author: Hawle_and_Corda_1847
+  ref_pic: Budil_et._al_2007
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: NA
+    country: null
+    state: null
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: Praha_Formation
+    min_age: Pragian
+    max_age: Pragian
+    ref_age: Budil_2007
+    environment: null
+-
+  ID: AMNH_29248
+  taxonomy:
+    genus: Trypaulites
+    sp: calypso
+    orig_genus: Dalmania
+    orig_sp: calypso
+    sp_author: Hall_1861
+    gen_author: Delo_1935
+  ref_pic: Lesperance_1975
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Devonian_Chert
+    country: USA
+    state: Indiana
+    county: Jefferson
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: null
+    min_age: Lower_Devonian
+    max_age: Middle_Devonian
+    ref_age: Lesperance_1975
+    environment: null
+-
+  ID: GSC_25927
+  taxonomy:
+    genus: Synphoria
+    sp: dolbeli
+    orig_genus: Dalmanites
+    orig_sp: dolbeli
+    sp_author: Clarke_1907
+    gen_author: Clarke_1900
+  ref_pic: Lesperance_and_Bourque_1971
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Hymans_Store
+    country: Canada
+    state: Quebec
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: null
+    min_age: Lower_Devonian
+    max_age: Middle_Devonian
+    ref_age: Lesperance_and_Bourque_1971
+    environment: null
+-
+  ID: NYSM_13376-1
+  taxonomy:
+    genus: Synphoroides
+    sp: dolphi
+    orig_genus: Dalmanites
+    orig_sp: dolphi
+    sp_author: Clarke_1893
+    gen_author: Delo_1940
+  ref_pic: Delo_1940
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Port_Jervis
+    country: USA
+    state: New_York
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: Helderberg_Formation
+    min_age: Devonian
+    max_age: Devonian
+    ref_age: Delo_1940
+    environment: null
+-
+  ID: AMNH_29104
+  taxonomy:
+    genus: Bouleia
+    sp: dagincourti
+    orig_genus: Phacops
+    orig_sp: dagincourti
+    sp_author: Ulrich_1892
+    gen_author: Kozlowski_1923
+  ref_pic: Eldregde_1972
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Padilla
+    country: Bolivia
+    state: null
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: null
+    min_age: Siegenian
+    max_age: Emsian
+    ref_age: Eldregde_1972
+    environment: null
+-
+  ID: SBNM-IT_257
+  taxonomy:
+    genus: Prionopeltis
+    sp: striata
+    orig_genus: Phaeton
+    orig_sp: striatus
+    sp_author: Barrande_1846
+    gen_author: Hawle_and_Corda_1847
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Dlouha_hora
+    country: Czech_Republic
+    state: Prague
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: Pridoli_Formation
+    min_age: Pridoli
+    max_age: Pridoli
+    ref_age: Snajdr_1980
+-
+  ID: SBNM_786-66
+  taxonomy:
+    genus: Denemarkia
+    sp: frontalis
+    orig_genus: Proetus
+    orig_sp: frontalis
+    sp_author: Hawle_and_Corda_1847
+    gen_author: Pribyl_1946
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy_Limestone
+    country: Morocco
+  stratigraphy:
+    basin: Bohemia
+    min_age: Pragian
+    max_age: Pragian
+    ref_age: Snajdr_1980
+-
+  ID: SBNM_663-66
+  taxonomy:
+    genus: Voigtaspis
+    sp: veleslavini
+    orig_genus: Cornuproetus_(Cornuproetus)
+    orig_sp: veleslavini
+    sp_author: Pribyl_1969
+    gen_author: Alberti_1967
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Koneprusy_Limestone
+    country: Morocco
+  stratigraphy:
+    basin: Bohemia
+    formation: null
+    min_age: Pragian
+    max_age: Pragian
+    ref_age: Snajdr_1980
+-
+  ID: SBNM-IT_212
+  taxonomy:
+    genus: Xiphogonium
+    sp: loveni
+    orig_genus: Proetus
+    orig_sp: lovenii
+    sp_author: Barrande_1846
+    gen_author: Hawle_and_Corda_1847
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Zl�chov_Limestone
+    country: Morocco # la Zlichov Limestone está en Republica Checa!
+    state: Host�m
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: null
+    min_age: Eifelian
+    max_age: Eifelian
+    ref_age: Snajdr_1980
+    environment: null
+-
+  ID: SMF_79804
+  taxonomy:
+    genus: Acastoides
+    gen_status: "?"
+    sp: paeckelmanni
+    orig_genus: Acaste_(Acastoides)
+    orig_sp: paeckelmanni
+    sp_author: Richter_and_Richter_1939
+    gen_author: Delo_1935
+  ref_pic: Basse_2003
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Pendik
+    country: Turkey
+    state: null
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: null
+    min_age: Emsian
+    max_age: Emsian
+    ref_age: Basse_2003
+    environment: null
+-
+  ID: SBNM-CF_1019
+  taxonomy:
+    genus: Centriproetus
+    sp: concentricus_concentricus
+    orig_genus: Proetus_(Decoroproetus)
+    orig_sp: concentricus
+    sp_author: Pribyl_1949
+    gen_author: Snajdr_1977
+  ref_pic: Snajdr_1980
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Prokop_Limestone
+    country: Morocco
+    state: null
+    county: null
+    map: null
+    lat: null
+    long: null
+  stratigraphy:
+    basin: null
+    formation: null
+    min_age: Lochkovian
+    max_age: Lochkovian
+    ref_age: Snajdr_1980
+    environment: null
+-
+  ID: MCZ7623-1_C
+  taxonomy:
+    genus: Burmeisteria
+    subgen: Digonus
+    sp: accraensis
+    orig_genus: Trimerus_(Dipleura)
+    orig_sp: dekayi
+    sp_author: Saul
+    gen_author: Salter
+  ref_pic: Saul 1967
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Accra
+    country: Ghana
+    state: Big Accra
+    county: Metropolitan Accra
+    map: no
+    lat: null
+    long: null
+  stratigraphy:
+    basin: NA
+    formation: Accraian Series
+    min_age: Lower Devonian
+    max_age: Middle Devonian
+    ref_age: Saul 1967
+    environment: siliciclastic
+-
+  ID: SMF39104_C
+  taxonomy:
+    genus: Digonus
+    sp: ornatus_ornatus
+    orig_genus: Homalonotus
+    orig_sp: ornatus
+    sp_author: Koch
+    gen_author: Gurich
+  ref_pic: Wenndorf 1990
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Oberstadtfeld
+    country: Germany
+    state: NA
+    county: NA
+    map: yes
+    lat: null
+    long: null
+  stratigraphy:
+    basin: NA
+    formation: Unterems Gladbachschisten
+    min_age: Lower Devonian
+    max_age: Lower Devonian
+    ref_age: Wenndorf 1990
+    environment: siliciclastic
+-
+  ID: NMW2005-32G-132_C
+  taxonomy:
+    genus: Trimerus
+    subgen: Edgillia
+    sp: kinglakensis
+    sp_status: aff.
+    orig_genus: Trimerus
+    orig_sp: kinglakensis
+    sp_author: Gill
+    gen_author: Green
+  ref_pic: Ghobadi Pour in 2019
+  morphology:
+    part: Cephalon
+    eyes: yes
+    ontogeny: Holaspis
+  geography:
+    locality: Lake Balkhash 
+    country: Kazakhstan 
+    state: NA
+    county: NA
+    map: yes
+    lat: null
+    long: null
+  stratigraphy:
+    basin: NA
+    formation: Shakshagaily 
+    min_age: Lower Devonian
+    max_age: Lower Devonian
+    ref_age: Ghobadi pour et al 2019
+    environment: siliciclastic
