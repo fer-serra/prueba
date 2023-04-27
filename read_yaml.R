@@ -2,7 +2,7 @@ if (!installed.packages()[, 1] == "yaml") {
   install.packages("yaml")
 }
 if (!installed.packages()[, 1] == "jsonlite") {
-  install.packages("json")
+  install.packages("jsonlite")
 }
 
 require(jsonlite, warn.conflicts = F)
