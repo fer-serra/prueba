@@ -1,7 +1,8 @@
-if (!installed.packages()[, 1] == "yaml") {
+if (!any(installed.packages()[, 1] == "yaml")) {
   install.packages("yaml")
 }
-if (!installed.packages()[, 1] == "jsonlite") {
+
+if (!any(installed.packages()[, 1] == "jsonlite")) {
   install.packages("jsonlite")
 }
 
