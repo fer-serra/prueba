@@ -1,5 +1,15 @@
 ---
 -
+  ID: DIEGO-prueba-commit
+  taxonomy:   # toda la info de al sistemática
+    genus: otraprueba
+    sp: rugulosa
+  ref_pic: Ormiston_1975    # de que paper sacamos la foto de ese ejemplar.
+  morphology:    # la info de la "morfología"
+    part: Cranidium
+    eyes: yes
+    ontogeny: Holaspis
+-
   ID: DIEGO-prueba
   taxonomy:   # toda la info de al sistemática
     genus: otraprueba
